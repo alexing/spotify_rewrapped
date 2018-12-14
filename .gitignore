@@ -1,0 +1,5 @@
+.DS_Store
+.cache-alexing10
+.ipynb_checkpoints/
+__pycache__/
+config.py
