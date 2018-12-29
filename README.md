@@ -10,7 +10,7 @@ Spoiler alert: it wasn't.
 
 ## To check the analysis, go [here](wrapped.ipynb).
 
-[comment]: <> (## To see the Medium article published in Towards Data Science, go [here](https://towardsdatascience.com/data-data-1fedfac91c79)) 
+<!-- To see the Medium article published in Towards Data Science, go [here](https://towardsdatascience.com/data-data-1fedfac91c79)-->
 
 Some cool samples from the visualizations:
 
