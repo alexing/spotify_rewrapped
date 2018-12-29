@@ -11,7 +11,7 @@ Spoiler alert: __it wasn't__.
 
 ## To check the analysis, go [here](wrapped.ipynb).
 
-<!-- To see the Medium article published in Towards Data Science, go [here](https://towardsdatascience.com/data-data-1fedfac91c79)-->
+## To see the Medium article published in Towards Data Science, go [here](https://towardsdatascience.com/spotify-rewrapped-e2a7cc94fb4e)
 
 Some cool samples from the visualizations:
 
