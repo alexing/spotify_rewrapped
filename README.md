@@ -15,8 +15,9 @@ Spoiler alert: it wasn't.
 
 Some cool samples from the visualizations:
 
-![Seru y Charly](img/medium/charly_seru.png?raw=true "Seru y Charly")
-![Artists](img/medium/artists.png?raw=true "Artists")
+![Seru y Charly](img/medium/charly_seru.png)
+![Artists](img/medium/artists.png)
+
 
 This whole project has been created using [Python 3](https://www.python.org/downloads/) and [Jupyter Notebook](http://jupyter.org/)
 
@@ -24,4 +25,3 @@ I created the databases with [pandas](https://pandas.pydata.org/), [Spotipy](htt
 
 To work on the analysis the tools I used were [pandas](https://pandas.pydata.org/), [Seaborn](https://seaborn.pydata.org/) and  [matplotlib](https://matplotlib.org/).
 
-## To check the analysis, go [here](wrapped.ipynb).
