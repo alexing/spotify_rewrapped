@@ -6,7 +6,7 @@
 
 
 Pulling data from my Spotify and Last.fm accounts using their APIs, I did some time series analysis to check which were my real stats and see if what Spotify told me in my [Spotify Wrapped end-of-year summary](https://spotifywrapped.com/) was correct.
-Spoiler alert: it wasn't.
+Spoiler alert: __it wasn't__.
 
 ## To check the analysis, go [here](wrapped.ipynb).
 
