@@ -15,8 +15,8 @@ Spoiler alert: it wasn't.
 
 Some cool samples from the visualizations:
 
-![Seru y Charly](img/medium/charly_seru.png)
-![Artists](img/medium/artists.png)
+![Seru y Charly](img/charly_seru.png)
+![Artists](img/artists.png)
 
 
 This whole project has been created using [Python 3](https://www.python.org/downloads/) and [Jupyter Notebook](http://jupyter.org/)
